@@ -48,13 +48,14 @@ A full-stack real-time video calling and chat application built with the MERN st
 
 ### Backend Setup
 1. Navigate to the backend directory:
-```bash
+
 cd backend
 
 2. Install dependencies:
 npm install
 
 3. Create a .env file in the backend root with:
+
 PORT=5000
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
@@ -77,6 +78,7 @@ VITE_API_BASE_URL=http://localhost:5000/api
 4. Start the development server:
 npm run dev
 
+```bash
 ## 📁 Project Structure
 
 Streamify/
@@ -123,7 +125,7 @@ Streamify/
 - GET /api/chat/conversations - Get user conversations
 - GET /api/chat/messages/:conversationId - Get conversation messages
 - POST /api/chat/message - Send a message
-
+```
 ## 🎨 UI Themes
 
 Streamify comes with 32 beautifully crafted themes. Users can switch between themes seamlessly, with preferences saved to their account.
@@ -146,4 +148,4 @@ We welcome contributions to Streamify! Please feel free to submit pull requests,
 ## 📞 Support
 
 If you have any questions or need help with setup, please open an issue or contact us at [email protected]
-```
+
