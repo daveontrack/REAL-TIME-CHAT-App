@@ -147,5 +147,5 @@ We welcome contributions to Streamify! Please feel free to submit pull requests,
 
 ## 📞 Support
 
-If you have any questions or need help with setup, please open an issue or contact us at [email protected]
+If you have any questions or need help with setup, please open an issue or contact us at dawitberiso406@gmail.com
 
