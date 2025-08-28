@@ -1,119 +1,3 @@
-js
-
-
-# Streamify - Real-Time Video Chat & Social App
-
-![Streamify](https://img.shields.io/badge/Streamify-MERN_Stack_App-blue) ![Version](https://img.shields.io/badge/version-1.0.0-green) ![License](https://img.shields.io/badge/license-MIT-yellow)
-
-A full-stack real-time video calling and chat application built with the MERN stack, featuring social networking capabilities, 32 UI themes, and seamless user experience.
-
-## 🚀 Live Demo
-
-[Coming Soon...](#)
-
-## ✨ Key Features
-
-- 🚀 **Modern Tech Stack**: Node.js, Express, MongoDB, React, TanStack Query, Tailwind CSS
-- 🔐 **Secure Authentication**: JWT-based login & signup flows
-- 📄 **Onboarding Flow**: Smooth user onboarding experience
-- 👥 **Friends System**: Add, accept, and manage friends
-- 💬 **Real-Time Chat**: Instant messaging with WebSocket integration
-- 📹 **Video Calling**: High-quality video calls with WebRTC
-- 🎨 **32 UI Themes**: Extensive customization options
-- 🚨 **Protected Routes**: Secure navigation with authentication guards
-- 🛠 **Custom Hooks**: Reusable React hooks following best practices
-- 🧪 **API Testing**: Comprehensive endpoint testing for reliability
-- 🚀 **Deployment Ready**: Optimized for production deployment
-
-## 🛠 Tech Stack
-
-### Backend
-- **Node.js** - Runtime environment
-- **Express.js** - Web framework
-- **MongoDB** - Database
-- **JWT** - Authentication
-- **Socket.IO** - Real-time communication
-- **WebRTC** - Video calling
-
-### Frontend
-- **React** - UI library
-- **TanStack Query** - Server state management
-- **Tailwind CSS** - Styling framework
-- **Axios** - HTTP client
-- **React Router** - Navigation
-
-## 📦 Installation
-
-### Prerequisites
-- Node.js (v14 or higher)
-- MongoDB
-- npm or yarn
-
-### Backend Setup
-1. Navigate to the backend directory:
-```bash
-cd backend
-js
-
-
-# Streamify - Real-Time Video Chat & Social App
-
-![Streamify](https://img.shields.io/badge/Streamify-MERN_Stack_App-blue) ![Version](https://img.shields.io/badge/version-1.0.0-green) ![License](https://img.shields.io/badge/license-MIT-yellow)
-
-A full-stack real-time video calling and chat application built with the MERN stack, featuring social networking capabilities, 32 UI themes, and seamless user experience.
-
-## 🚀 Live Demo
-
-[Coming Soon...](#)
-
-## ✨ Key Features
-
-- 🚀 **Modern Tech Stack**: Node.js, Express, MongoDB, React, TanStack Query, Tailwind CSS
-- 🔐 **Secure Authentication**: JWT-based login & signup flows
-- 📄 **Onboarding Flow**: Smooth user onboarding experience
-- 👥 **Friends System**: Add, accept, and manage friends
-- 💬 **Real-Time Chat**: Instant messaging with WebSocket integration
-- 📹 **Video Calling**: High-quality video calls with WebRTC
-- 🎨 **32 UI Themes**: Extensive customization options
-- 🚨 **Protected Routes**: Secure navigation with authentication guards
-- 🛠 **Custom Hooks**: Reusable React hooks following best practices
-- 🧪 **API Testing**: Comprehensive endpoint testing for reliability
-- 🚀 **Deployment Ready**: Optimized for production deployment
-
-## 🛠 Tech Stack
-
-### Backend
-- **Node.js** - Runtime environment
-- **Express.js** - Web framework
-- **MongoDB** - Database
-- **JWT** - Authentication
-- **Socket.IO** - Real-time communication
-- **WebRTC** - Video calling
-
-### Frontend
-- **React** - UI library
-- **TanStack Query** - Server state management
-- **Tailwind CSS** - Styling framework
-- **Axios** - HTTP client
-- **React Router** - Navigation
-
-## 📦 Installation
-
-### Prerequisites
-- Node.js (v14 or higher)
-- MongoDB
-- npm or yarn
-
-### Backend Setup
-1. Navigate to the backend directory:
-```bash
-cd backend
-npm install
-
-Dave, [8/28/2025 10:08 AM]
-js
-
-
 # Streamify - Real-Time Video Chat & Social App
 
 ![Streamify](https://img.shields.io/badge/Streamify-MERN_Stack_App-blue) ![Version](https://img.shields.io/badge/version-1.0.0-green) ![License](https://img.shields.io/badge/license-MIT-yellow)
@@ -245,8 +129,6 @@ Streamify/
 Streamify comes with 32 beautifully crafted themes. Users can switch between themes seamlessly, with preferences saved to their account.
 
 ## 🤝 Contributing
-
-Dave, [8/28/2025 10:08 AM]
 We welcome contributions to Streamify! Please feel free to submit pull requests, create issues, or suggest new features.
 
 1. Fork the project
@@ -264,8 +146,4 @@ We welcome contributions to Streamify! Please feel free to submit pull requests,
 ## 📞 Support
 
 If you have any questions or need help with setup, please open an issue or contact us at [email protected]
-
----
-
-⭐️ Star this repo if you found it helpful!
 ```
