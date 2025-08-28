@@ -1,8 +1,7 @@
-# Node.js dependencies
+# backend/.gitignore
 node_modules/
-
-# Environment variables
 .env
+
 
 # Logs
 logs
