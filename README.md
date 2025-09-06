@@ -1,4 +1,4 @@
-# Streamify - Real-Time Video Chat & Social App
+# Streamify - Real-Time Video Chat App
 
 ![Streamify](https://img.shields.io/badge/Streamify-MERN_Stack_App-blue) ![Version](https://img.shields.io/badge/version-1.0.0-green) ![License](https://img.shields.io/badge/license-MIT-yellow)
 
@@ -42,7 +42,7 @@ A full-stack real-time video calling and chat application built with the MERN st
 ## 📦 Installation
 
 ### Prerequisites
-- Node.js (v14 or higher)
+- Node.js
 - MongoDB
 - npm or yarn
 
