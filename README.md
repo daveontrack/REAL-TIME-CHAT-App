@@ -6,7 +6,6 @@ A full-stack real-time video calling and chat application built with the MERN st
 
 ## 🚀 Live Demo
 
-[Coming Soon...](#)
 
 ## ✨ Key Features
 
