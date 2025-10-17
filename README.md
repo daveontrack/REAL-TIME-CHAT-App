@@ -19,8 +19,6 @@ A full-stack real-time video calling and chat application built with the MERN st
 - 🎨 **32 UI Themes**: Extensive customization options
 - 🚨 **Protected Routes**: Secure navigation with authentication guards
 - 🛠 **Custom Hooks**: Reusable React hooks following best practices
-- 🧪 **API Testing**: Comprehensive endpoint testing for reliability
-- 🚀 **Deployment Ready**: Optimized for production deployment
 
 ## 🛠 Tech Stack
 
